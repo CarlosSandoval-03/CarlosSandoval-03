@@ -1,10 +1,14 @@
-# Carlos Sandoval
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1998&color=FFFFFF&center=true&vCenter=true&width=940&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Carlos+Sandoval)](https://git.io/typing-svg)
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlossandoval03)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/csandovalc)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14929664/carlossandoval-03)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SandovalCarlosC)
+
+</div>
 
 ## 💻 Tech Stack
 
@@ -27,12 +31,20 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats-blond-eta.vercel.app/api?username=CarlosSandoval-03&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosSandoval-03&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats-blond-eta.vercel.app/api/top-langs/?username=CarlosSandoval-03&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-blond-eta.vercel.app/api?username=CarlosSandoval-03&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=CarlosSandoval-03&theme=synthwave&hide_border=true)
+
+![Most Used Languages](https://github-readme-stats-blond-eta.vercel.app/api/top-langs/?username=CarlosSandoval-03&theme=synthwave&langs_count=6&card_width=700&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=CarlosSandoval-03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=CarlosSandoval-03&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
