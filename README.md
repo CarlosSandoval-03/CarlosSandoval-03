@@ -20,7 +20,7 @@
   <img height="50%" width="auto" src ="https://github-readme-stats-blond-eta.vercel.app/api?username=CarlosSandoval-03&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true">
 </p>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats-blond-eta.vercel.app/api/top-langs/?username=CarlosSandoval-03&theme=synthwave&langs_count=6&card_width=450&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <img height="50%" width="auto" src ="https://github-readme-stats-blond-eta.vercel.app/api/top-langs/?username=CarlosSandoval-03&theme=synthwave&langs_count=6&card_width=450&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=tex,css,handlebars,html">
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosSandoval-03&theme=synthwave&hide_border=true">
@@ -84,7 +84,7 @@
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/SonarLint-CB2029?logo=SONARLINT&logoColor=white"></a>
 <a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-black?logo=sonarqube&logoColor=4E9BCD"></a>
-<a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
+<a href="#"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
