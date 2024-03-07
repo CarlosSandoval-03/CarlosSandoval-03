@@ -6,7 +6,7 @@
 
 {
 
-- 🌱 `I’m currently learning`: **Rust**,
+- 🌱 `I’m currently learning`: **Rust**
 - 👯 `I’m looking to collaborate on`: **Linux Kernel**
 - 💻 `Favorite lang`: **TypeScript & C/C++**
 
