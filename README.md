@@ -20,7 +20,7 @@
   <img height="50%" width="auto" src ="https://github-readme-stats-blond-eta.vercel.app/api?username=CarlosSandoval-03&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true">
 </p>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats-blond-eta.vercel.app/api/top-langs/?username=CarlosSandoval-03&theme=synthwave&langs_count=6&card_width=450&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=tex,css,handlebars,html">
+  <img height="50%" width="auto" src ="https://github-readme-stats-blond-eta.vercel.app/api/top-langs/?username=CarlosSandoval-03&theme=synthwave&langs_count=6&card_width=450&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=tex,css,handlebars,html,jupyter%20notebook">
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosSandoval-03&theme=synthwave&hide_border=true">
